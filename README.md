@@ -1,6 +1,6 @@
-# proteccion_civil_admin
+# Protección Civil App Administrador
 
-A new Flutter project.
+Este app fue desarrollado como trabajo recepcional
 
 ## Getting Started
 
